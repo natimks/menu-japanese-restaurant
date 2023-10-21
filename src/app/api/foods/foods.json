@@ -1,0 +1,74 @@
+[
+  {
+    "id": "niguiri-salmao",
+    "name": "Niguiri Salmão",
+    "universe": 616,
+    "details": {
+      "fullName": "Peter B. Parker",
+      "birthday": "1980-08-27",
+      "homeland": "Queens, Nova Iorque",
+      "height": 1.78,
+      "weight": 75.75
+    }
+  },
+  {
+    "id": "sushi-ovas",
+    "name": "Sushi de Ovas",
+    "universe": 65,
+    "details": {
+      "fullName": "Gwen Stacy",
+      "birthday": "2002-03-02",
+      "homeland": "Manhattan, Nova York",
+      "height": 1.65,
+      "weight": 56.7
+    }
+  },
+  {
+    "id": "temaki",
+    "name": "Temaki",
+    "universe": 1610,
+    "details": {
+      "fullName": "Miles Morales",
+      "birthday": "1999-08-03",
+      "homeland": "Brooklyn, Nova York",
+      "height": 1.73,
+      "weight": 72.5
+    }
+  },
+  {
+    "id": "uramaki",
+    "name": "Uramaki",
+    "universe": 14512,
+    "details": {
+      "fullName": "Pizza Pepperoni",
+      "birthday": "2009-10-22",
+      "homeland": "New York City, Nova York",
+      "height": 1.50,
+      "weight": 47.6
+    }
+  },
+  {
+    "id": "uramaki-salmao",
+    "name": "Uramaki Salmão",
+    "universe": 8311,
+    "details": {
+      "fullName": "Peter Porker",
+      "birthday": null,
+      "homeland": "Queens, Nova York",
+      "height": 1.57,
+      "weight": 43.9
+    }
+  },
+  {
+    "id": "niguiri",
+    "name": "Niguiri",
+    "universe": 90214,
+    "details": {
+      "fullName": "Peter Parker",
+      "birthday": "1933-02-09",
+      "homeland": "Queens, Nova York",
+      "height": 1.78,
+      "weight": 79
+    }
+  }
+]
